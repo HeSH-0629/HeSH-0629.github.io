@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d243156.css",
-    "main.js": "/static/js/main.f08aca66.js",
+    "main.css": "/static/css/main.84cdf31e.css",
+    "main.js": "/static/js/main.97a4831d.js",
     "static/js/787.93efd7dd.chunk.js": "/static/js/787.93efd7dd.chunk.js",
+    "static/media/APPLESDGOTHICNEO-THIN.TTF": "/static/media/APPLESDGOTHICNEO-THIN.6545c233403343c572b1.TTF",
+    "static/media/APPLESDGOTHICNEO-LIGHT.TTF": "/static/media/APPLESDGOTHICNEO-LIGHT.9daf9ff35350f782c178.TTF",
+    "static/media/APPLESDGOTHICNEO-REGULAR.TTF": "/static/media/APPLESDGOTHICNEO-REGULAR.7eb405ac5c78ed533ac1.TTF",
+    "static/media/APPLESDGOTHICNEO-HEAVY.TTF": "/static/media/APPLESDGOTHICNEO-HEAVY.4636dc62167410ddc32e.TTF",
+    "static/media/APPLESDGOTHICNEO-BOLD.TTF": "/static/media/APPLESDGOTHICNEO-BOLD.d13992938085b3e4256d.TTF",
+    "static/media/APPLESDGOTHICNEO-MEDIUM.TTF": "/static/media/APPLESDGOTHICNEO-MEDIUM.11d48e0a2866c5666b3e.TTF",
+    "static/media/APPLESDGOTHICNEO-EXTRABOLD.TTF": "/static/media/APPLESDGOTHICNEO-EXTRABOLD.c1803750138861e2b071.TTF",
     "static/media/kendo.jpg": "/static/media/kendo.576025539f045e07638d.jpg",
     "static/media/data_vector.png": "/static/media/data_vector.e26b9a1178d65e77013d.png",
     "static/media/ROKA.png": "/static/media/ROKA.c032cb3159e357e73daf.png",
     "static/media/mclaren.png": "/static/media/mclaren.b5df0739c7acacffffdb.png",
     "static/media/logo-crimson.svg": "/static/media/logo-crimson.4b95846be8ed781a6eb083e76887bb8b.svg",
     "index.html": "/index.html",
-    "main.7d243156.css.map": "/static/css/main.7d243156.css.map",
-    "main.f08aca66.js.map": "/static/js/main.f08aca66.js.map",
+    "main.84cdf31e.css.map": "/static/css/main.84cdf31e.css.map",
+    "main.97a4831d.js.map": "/static/js/main.97a4831d.js.map",
     "787.93efd7dd.chunk.js.map": "/static/js/787.93efd7dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d243156.css",
-    "static/js/main.f08aca66.js"
+    "static/css/main.84cdf31e.css",
+    "static/js/main.97a4831d.js"
   ]
 }
