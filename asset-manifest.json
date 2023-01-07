@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e964a08.css",
+    "main.css": "/static/css/main.9431039c.css",
     "main.js": "/static/js/main.25b1a00c.js",
     "static/js/787.93efd7dd.chunk.js": "/static/js/787.93efd7dd.chunk.js",
     "static/media/APPLESDGOTHICNEO-THIN.TTF": "/static/media/APPLESDGOTHICNEO-THIN.6545c233403343c572b1.TTF",
@@ -16,12 +16,12 @@
     "static/media/mclaren.png": "/static/media/mclaren.b5df0739c7acacffffdb.png",
     "static/media/logo-crimson.svg": "/static/media/logo-crimson.4b95846be8ed781a6eb083e76887bb8b.svg",
     "index.html": "/index.html",
-    "main.2e964a08.css.map": "/static/css/main.2e964a08.css.map",
+    "main.9431039c.css.map": "/static/css/main.9431039c.css.map",
     "main.25b1a00c.js.map": "/static/js/main.25b1a00c.js.map",
     "787.93efd7dd.chunk.js.map": "/static/js/787.93efd7dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e964a08.css",
+    "static/css/main.9431039c.css",
     "static/js/main.25b1a00c.js"
   ]
 }
